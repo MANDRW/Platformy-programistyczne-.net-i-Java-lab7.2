@@ -1,0 +1,28 @@
+{
+  "annotations": {
+    "changelogDate": "20250609092859"
+  },
+  "clientRootFolder": "car",
+  "databaseType": "sql",
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "age",
+      "fieldType": "BigDecimal"
+    },
+    {
+      "fieldName": "isBroken",
+      "fieldType": "Boolean"
+    }
+  ],
+  "microserviceName": "car",
+  "name": "Car",
+  "pagination": "pagination",
+  "readOnly": false,
+  "relationships": [],
+  "searchEngine": "no",
+  "service": "no"
+}
